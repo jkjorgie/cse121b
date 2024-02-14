@@ -6,15 +6,18 @@ const displayPlayers = (players) => {
     for (const player of players) {
         const article = document.createElement("article");
         const h3 = document.createElement("h3");
-        h3.textContent = `${player.name}, #${player.number}, ${player.position}`;
+        h3.textContent = `#${player.number}: ${player.name}`;
         const img = document.createElement("img");
         console.log(player.imageURL);
         img.src = player.imageURL;
         img.alt = player.name;
+        const p = document.createElement("p");
+        p.textContent = player.position;
         /*img.width = "150";
         img.height = "150";*/
         article.appendChild(h3);
         article.appendChild(img);
+        article.appendChild(p);
         playersElement.appendChild(article);
     }
 }
