@@ -1,0 +1,56 @@
+[
+    {
+      "position": "Catcher",
+      "name": "Tyler Flowers",
+      "number": 25,
+      "imageURL": "./images/braves-players/tyler-flowers.png"
+    },
+    {
+      "position": "First Base",
+      "name": "Freddie Freeman",
+      "number": 5,
+      "imageURL": "./images/braves-players/freddie-freeman.jpeg"
+    },
+    {
+      "position": "Second Base",
+      "name": "Ozzie Albies",
+      "number": 1,
+      "imageURL": "./images/braves-players/ozzie-albies.webp"
+    },
+    {
+      "position": "Shortstop",
+      "name": "Dansby Swanson",
+      "number": 7,
+      "imageURL": "./images/braves-players/dansby-swanson.webp"
+    },
+    {
+      "position": "Third Base",
+      "name": "Austin Riley",
+      "number": 27,
+      "imageURL": "./images/braves-players/austin-riley.jpeg"
+    },
+    {
+      "position": "Left Field",
+      "name": "Ronald Acuña Jr.",
+      "number": 13,
+      "imageURL": "./images/braves-players/ronald-acuna.webp"
+    },
+    {
+      "position": "Center Field",
+      "name": "Cristian Pache",
+      "number": 14,
+      "imageURL": "./images/braves-players/cristian-pache.jpeg"
+    },
+    {
+      "position": "Right Field",
+      "name": "Jorge Soler",
+      "number": 12,
+      "imageURL": "./images/braves-players/jorge-soler.jpeg"
+    },
+    {
+      "position": "Starting Pitcher",
+      "name": "Max Fried",
+      "number": 54,
+      "imageURL": "./images/braves-players/max-fried.webp"
+    }
+  ]

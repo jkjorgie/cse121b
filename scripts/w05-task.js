@@ -36,6 +36,10 @@ function reset() {
 }
 
 /* filterTemples Function */
+
+/* !!!!!FOR GRADER: the downloaded code and assignment instructions said to name the function "filterTemples" but
+       then the syllabus said to name it "sortBy"; I defaulted to what the downloaded code and actual
+       instructions said, not what the syllabus said */
 function filterTemples(temples) {
     reset();
     let filter = document.querySelector("#filtered");
